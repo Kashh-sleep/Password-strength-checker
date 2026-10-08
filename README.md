@@ -18,5 +18,5 @@ A simple python project that checks the strength of a password based on length, 
 
  Clone the repository:
  '''bash
- gut clone YOUR_REPOSITORY_URL
+ get clone YOUR_REPOSITORY_URL
 

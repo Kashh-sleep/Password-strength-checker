@@ -1,5 +1,5 @@
 # Password-strength-checker
-A simple python project that checks the strength of a password based on length, uppercase letters, lowercase letters, numbers, abd special characters.
+A simple python project that checks the strength of a password based on length, uppercase letters, lowercase letters, numbers, add special characters.
 # Features
 - Checks password length
 - Detects uppercase letters
